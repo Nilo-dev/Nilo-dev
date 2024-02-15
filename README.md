@@ -9,7 +9,7 @@
 
 - 📫 You can reach me @ **danilo.dalo.nilo@gmail.com**
 
-- 📄 Know about my experiences @ <a href="https://linkedin.com/in/danilo-machado-de-souza" target="blank"><img align="center" src="akt4ae504epesldzj74dzred8.svg" alt="danilo-machado-de-souza" height="15" /></a>
+- 📄 Know about my experiences @ <a href="https://linkedin.com/in/danilo-machado-de-souza" target="blank"><img align="center" src="https://shields.io/badge/linkedin-0077B5?logo=linkedin&style=for-the-badge" alt="danilo-machado-de-souza" height="15" /></a>
 
 - ⚡ Fun fact **I've set up my own home server because I got tired of so many subscription services**
 
