@@ -7,11 +7,11 @@
 
 - 💬 Ask me about **Ruby, Ruby on Rails and Games**
 
-- 📫 How to reach me **danilo.dalo.nilo@gmail.com**
+- 📫 You can reach me @ **danilo.dalo.nilo@gmail.com**
 
 - 📄 Know about my experiences @ <a href="https://linkedin.com/in/danilo-machado-de-souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danilo-machado-de-souza" height="15" /></a>
 
-- ⚡ Fun fact **I've set up my own homemade server because I got tired of so many subscription services**
+- ⚡ Fun fact **I've set up my own home server because I got tired of so many subscription services**
 
 <h3 align="left">Languages and Tools:</h3>
 <div class="icons">
