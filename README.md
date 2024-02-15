@@ -9,7 +9,7 @@
 
 - 📫 You can reach me @ **danilo.dalo.nilo@gmail.com**
 
-- 📄 Know about my experiences @ <a href="https://linkedin.com/in/danilo-machado-de-souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danilo-machado-de-souza" height="15" /></a>
+- 📄 Know about my experiences @ <a href="https://linkedin.com/in/danilo-machado-de-souza" target="blank"><img align="center" src="akt4ae504epesldzj74dzred8.svg" alt="danilo-machado-de-souza" height="15" /></a>
 
 - ⚡ Fun fact **I've set up my own home server because I got tired of so many subscription services**
 
@@ -81,6 +81,10 @@
 </div>
 
 <!--
+- 📄 Know about my experiences @ <a href="https://linkedin.com/in/danilo-machado-de-souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danilo-machado-de-souza" height="15" /></a>
+
+
+
 vercel_app = https://github-readme-stats-git-master-nilo-devs-projects.vercel.app
 <img align="left" alt="Nilo-dev's Github Stats" src="https://github-readme-stats-git-master-nilo-devs-projects.vercel.app/api?username=Nilo-dev&show_icons=true&show=reviews,prs_merged&hide=stars,issues&border_radius=16&custom_title=My%20Github%20Stats&rank_icon=github&include_all_commits=true&bg_color=1c2029&icon_color=f26420&title_color=f26420&text_color=fff" />
 <img align="left" alt="Nilo-dev's Github Stats" src="https://github-readme-stats-git-master-nilo-devs-projects.vercel.app/api/top-langs/?username=Nilo-dev&bg_color=1c2029&icon_color=f26420&title_color=f26420&text_color=fff" />
