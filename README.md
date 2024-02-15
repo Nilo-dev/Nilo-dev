@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats-vercel-eight-omega.vercel.app/api?username=Nilo-dev&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-vercel-eight-omega.vercel.app.vercel.app/api/top-langs/?username=Nilo-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats]([https://github-readme-stats-vercel-eight-omega.vercel.app](https://github-readme-stats-vercel-dgzl0y500-nilo-devs-projects.vercel.app/)/api?username=Nilo-dev&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([https://github-readme-stats-vercel-eight-omega.vercel.app.vercel.app](https://github-readme-stats-vercel-dgzl0y500-nilo-devs-projects.vercel.app/)/api/top-langs/?username=Nilo-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Nilo-dev/Nilo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
