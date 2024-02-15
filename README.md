@@ -1,4 +1,4 @@
-<img align="left" alt="Nilo-dev's Github Stats" src="https://github-readme-stats.nilo-dev.vercel.app/api?username=Nilo-dev&show_icons=true&hide_border=true" />
+<img align="left" alt="Nilo-dev's Github Stats" src="https://github-readme-stats-git-master-nilo-devs-projects.vercel.app/api?username=Nilo-dev&show_icons=true&hide_border=true" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.nilo-dev.vercel.app/api?username=Nilo-dev)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.nilo-dev.vercel.app/api/top-langs/?username=Nilo-dev)](https://github.com/anuraghazra/github-readme-stats)
