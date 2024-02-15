@@ -2,7 +2,7 @@
 
 <!--
 vercel_app = https://github-readme-stats-git-master-nilo-devs-projects.vercel.app
-<img align="left" alt="Nilo-dev's Github Stats" src="https://github-readme-stats-git-master-nilo-devs-projects.vercel.app/api/top-langs/?username=Nilo-dev" />
+<img align="left" alt="Nilo-dev's Github Stats" src="https://github-readme-stats-git-master-nilo-devs-projects.vercel.app/api/top-langs/?username=Nilo-dev&bg_color=1c2029&icon_color=f26420&title_color=f26420&text_color=fff" />
 **Nilo-dev/Nilo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
