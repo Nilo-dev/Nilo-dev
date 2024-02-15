@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.nilo-dev.vercel.app//api?username=Nilo-dev)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Nilo-dev's Github Stats" src="https://github-readme-stats.nilo-dev.vercel.app/api?username=Nilo-dev&show_icons=true&hide_border=true" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.nilo-dev.vercel.app/api?username=Nilo-dev)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.nilo-dev.vercel.app/api/top-langs/?username=Nilo-dev)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 vercel_app = https://github-readme-stats-rho-lyart-91.vercel.app
