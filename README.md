@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Ruby, Ruby on Rails and Games**
 
-- 📫 You can reach me @ <a href="mailto:danilo.dalo.nilo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge" /></a>
+- 📫 You can reach me @ <a href="mailto:danilo.dalo.nilo@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge" /></a>
 
-- 📄 Know about my experiences @ <a href="https://linkedin.com/in/danilo-machado-de-souza" target="_blank"><img src="https://shields.io/badge/linkedin-0077B5?logo=linkedin&style=for-the-badge" alt="danilo-machado-de-souza" /></a>
+- 📄 Know about my experiences @ <a href="https://linkedin.com/in/danilo-machado-de-souza" target="_blank"><img align="center" src="https://shields.io/badge/linkedin-0077B5?logo=linkedin&style=for-the-badge" alt="danilo-machado-de-souza" /></a>
 
 - ⚡ Fun fact **I've set up my own home server because I got tired of so many subscription services**
 
