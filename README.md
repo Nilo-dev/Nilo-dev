@@ -2,6 +2,8 @@
   <img src="readme.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
+![Image alt text](hello-animated.svg)
+
 <img align="left" alt="Nilo-dev's Github Stats" src="https://github-readme-stats-git-master-nilo-devs-projects.vercel.app/api?username=Nilo-dev&show_icons=true&show=reviews,prs_merged&hide=stars,issues&border_radius=16&custom_title=My%20Github%20Stats&rank_icon=github&include_all_commits=true&bg_color=1c2029&icon_color=f26420&title_color=f26420&text_color=fff" />
 
 <!--
