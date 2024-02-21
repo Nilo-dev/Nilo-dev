@@ -85,7 +85,7 @@
     </tr>
     <tr>
       <td width="441">
-        <h4>software</h4>
+        <h4>Software</h4>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="40" height="40"/>
         </a>
