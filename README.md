@@ -12,7 +12,7 @@
   <h3 align="left">Languages and Tools:</h3>
   <table>
     <tr>
-      <td>
+      <td width="441">
         <h4>Programming Languages</h4>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -24,7 +24,7 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
         </a>
       </td>
-      <td>
+      <td width="441">
         <h4>Frontend Development</h4>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -44,13 +44,13 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="441">
         <h4>Database</h4>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
         </a>
       </td>
-      <td>
+      <td width="441">
         <h4>Data Visualization</h4>
         <a href="https://www.chartjs.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
           <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
@@ -58,7 +58,7 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="441">
         <h4>Devops</h4>
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -76,7 +76,7 @@
           <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
         </a>
       </td>
-      <td>
+      <td width="441">
         <h4>Framework</h4>
         <a href="https://rubyonrails.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
@@ -84,7 +84,7 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="441">
         <h4>software</h4>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -96,7 +96,7 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
         </a>
       </td>
-      <td>
+      <td width="441">
         <h4>Other</h4>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
