@@ -1,5 +1,5 @@
 <div>
-  <h1>Hi 👋, I'm Danilo</h1>
+  <h1 align="center">Hi 👋, I'm Danilo</h1>
   <h3 align="center">A passionate full stack web developer from Brazil</h3>
   <ul>
     <li>🔭 I’m currently working @ <a href="https://twygoead.com/" target="_blank" rel="norefereer">Twygo</a></li>
