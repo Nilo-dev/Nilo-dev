@@ -1,7 +1,6 @@
 <div class="container">
         <h1>Hi <div class="hi">👋</div>, I'm Danilo</h1>
         <h3 align="center">A passionate full stack web developer from Brazil</h3>
-
         <ul>
           <li>🔭 I’m currently working @ <a href="https://twygoead.com/" target="_blank" rel="norefereer">Twygo</a></li>
           <li>🌱 I’m currently learning <b>React</b></li>
@@ -10,7 +9,6 @@
           <li>📄 Know about my experiences @ <a href="https://linkedin.com/in/danilo-machado-de-souza" target="_blank"><img align="center" src="https://shields.io/badge/linkedin-0077B5?logo=linkedin&style=for-the-badge" alt="danilo-machado-de-souza" /></a></li>
           <li>⚡ Fun fact <b>I've set up my own home server because I got tired of so many subscription services</b></li>
         </ul>
-
         <h3 align="left">Languages and Tools:</h3>
         <div class="icons">
           <div class="programming-languages">
