@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, I'm Danilo</h1>
   <h3 align="center">A passionate full stack web developer from Brazil</h3>
   <ul>
-    <li>🔭 I’m currently working @ <a href="https://twygoead.com/" target="_blank" rel="norefereer">Twygo</a></li>
+    <li>🔭 I’m currently working @ <a href="https://morphsys.com.br/" target="_blank" rel="norefereer">Morph Systems</a></li>
     <li>🌱 I’m currently learning <b>React</b></li>
     <li>💬 Ask me about <b>Ruby, Ruby on Rails and Games</b></li>
     <li>📫 You can reach me @ <a href="mailto:danilo.dalo.nilo@gmail.com" target="_blank" rel="norefereer"><img align="center" src="https://img.shields.io/badge/Gmail-danilo.dalo.nilo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge" /></a></li>
